@@ -15,3 +15,7 @@
 `Badly used technology:`
 - reusability of ExcelUnlockClass.cs class
 - separation (DataLayer, PresentationLayer)
+
+
+`Download:`
+[Exe file](https://github.com/ArmasterCZ/ExcelUnlock/raw/master/ExcelUnlock/obj/Debug/ExcelUnlock.exe).
