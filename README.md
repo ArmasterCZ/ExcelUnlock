@@ -11,11 +11,8 @@
 - (firs time used) translation through Resources.resx
 - (firs time used) drag and drop feature
 - (firs time used) ghost text
-
-`Badly used technology:`
-- reusability of ExcelUnlockClass.cs class
-- separation (DataLayer, PresentationLayer)
-
+- (firs time used) full comments
+- (firs time used) separation of layers
 
 `Download:`
 [Exe file](https://github.com/ArmasterCZ/ExcelUnlock/raw/master/ExcelUnlock/obj/Debug/ExcelUnlock.exe).
