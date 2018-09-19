@@ -183,4 +183,7 @@
   <data name="FMUnlock" xml:space="preserve">
     <value>Odemknout</value>
   </data>
+  <data name="EXExcFullTemp" xml:space="preserve">
+    <value>Není možné vytvořit dočasný soubor. </value>
+  </data>
 </root>

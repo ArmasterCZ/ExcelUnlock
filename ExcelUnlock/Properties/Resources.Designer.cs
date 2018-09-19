@@ -97,6 +97,15 @@ namespace ExcelUnlock.Properties {
         }
         
         /// <summary>
+        ///   Vyhledá lokalizovaný řetězec podobný It is not possible to create a temporary file. .
+        /// </summary>
+        internal static string EXExcFullTemp {
+            get {
+                return ResourceManager.GetString("EXExcFullTemp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Vyhledá lokalizovaný řetězec podobný Temp folder isnt exist..
         /// </summary>
         internal static string EXExcTempPath {
@@ -205,7 +214,7 @@ namespace ExcelUnlock.Properties {
         }
         
         /// <summary>
-        ///   Vyhledá lokalizovaný řetězec podobný Drop file here of write path..
+        ///   Vyhledá lokalizovaný řetězec podobný  Drop file here of write path..
         /// </summary>
         internal static string FMCoDropItemHere {
             get {

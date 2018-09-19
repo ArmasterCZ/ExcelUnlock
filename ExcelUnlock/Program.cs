@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Windows.Forms;
 
 namespace ExcelUnlock
@@ -15,7 +13,7 @@ namespace ExcelUnlock
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fMain());
+            Application.Run(new fMain()); //create form from prezentation layer
         }
     }
 }
